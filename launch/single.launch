@@ -2,7 +2,7 @@
 
 <launch>
     <!-- choose original aruco during the generation -->
-    <arg name="markerId"        default="50"/>
+    <arg name="markerId"        default="33"/>
     <arg name="markerSize"      default="0.034"/>    <!-- in m -->
     <arg name="eye"             default="left"/>
     <arg name="marker_frame"    default="aruco_marker_frame"/>
