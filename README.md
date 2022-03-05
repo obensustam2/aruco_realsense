@@ -1,5 +1,3 @@
-# ArUco marker 3D position and orientation calculation with Realsense D435 camera
-
 ## To create ArUco marker
 Go to -> https://chev.me/arucogen/ 
 ```bash
